@@ -5,6 +5,7 @@ metadata:
   description: Python app that displays time.
   annotations:
     github.com/project-slug: christoph-mueller-sda-se/udemy-backstage-python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
