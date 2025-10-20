@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-app
+  description: Python app that displays time.
+  annotations:
+    github.com/project-slug: christoph-mueller-sda-se/udemy-backstage-python-app
+spec:
+  type: service
+  owner: john@example.com
+  lifecycle: experimental
