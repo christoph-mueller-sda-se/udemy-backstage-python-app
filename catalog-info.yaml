@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: christoph-mueller-sda-se/udemy-backstage-python-app
 spec:
   type: service
-  owner: john@example.com
+  owner: development
   lifecycle: experimental
